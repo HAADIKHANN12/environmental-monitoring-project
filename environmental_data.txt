@@ -1,0 +1,83 @@
+City: London, Country: United Kingdom, Temperature: 10.00°C, Humidity: 66%
+City: London, Country: United Kingdom, Temperature: 10.00°C, Humidity: 66%
+City: London, Country: United Kingdom, Temperature: 10.00°C, Humidity: 66%
+City: London, Country: United Kingdom, Temperature: 10.00°C, Humidity: 66%
+City: London, Country: United Kingdom, Temperature: 10.00°C, Humidity: 66%
+City: London, Country: United Kingdom, Temperature: 10.00°C, Humidity: 66%
+City: London, Country: United Kingdom, Temperature: 11.00°C, Humidity: 66%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: London, Country: United Kingdom, Temperature: 10.00°C, Humidity: 71%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: London, Country: United Kingdom, Temperature: 11.00°C, Humidity: 62%
+City: Karachi, Country: Pakistan, Temperature: 28.00°C, Humidity: 51%
+City: Karachi, Country: Pakistan, Temperature: 27.00°C, Humidity: 54%
+City: Karachi, Country: Pakistan, Temperature: 27.00°C, Humidity: 54%
+City: Karachi, Country: Pakistan, Temperature: 27.00°C, Humidity: 54%
+City: Karachi, Country: Pakistan, Temperature: 27.00°C, Humidity: 54%
+City: Karachi, Country: Pakistan, Temperature: 27.00°C, Humidity: 54%
+City: Karachi, Country: Pakistan, Temperature: 27.00°C, Humidity: 54%
+City: Karachi, Country: Pakistan, Temperature: 27.00°C, Humidity: 54%
+City: Mumbai, Country: India, Temperature: 30.00°C, Humidity: 55%
+City: Mumbai, Country: India, Temperature: 30.00°C, Humidity: 55%
+City: Mumbai, Country: India, Temperature: 30.00°C, Humidity: 55%
+City: Mumbai, Country: India, Temperature: 30.00°C, Humidity: 55%
+City: Karachi, Country: Pakistan, Temperature: 27.00°C, Humidity: 54%
+City: Karachi, Country: Pakistan, Temperature: 27.00°C, Humidity: 54%
+City: Dehlingen, Country: France, Temperature: 4.00°C, Humidity: 93%
+City: Dehlingen, Country: France, Temperature: 4.00°C, Humidity: 93%
+City: Dehlingen, Country: France, Temperature: 4.00°C, Humidity: 93%
+City: Dehlingen, Country: France, Temperature: 4.00°C, Humidity: 93%
+City: Karachi, Country: Pakistan, Temperature: 27.00°C, Humidity: 54%
+City: Karachi, Country: Pakistan, Temperature: 27.00°C, Humidity: 54%
+City: Lahore, Country: Pakistan, Temperature: 19.00°C, Humidity: 73%
+City: Lahore, Country: Pakistan, Temperature: 19.00°C, Humidity: 73%
+City: Islamabad, Country: Pakistan, Temperature: 15.00°C, Humidity: 37%
+City: Sydney, Country: Australia, Temperature: 21.00°C, Humidity: 88%
+City: Berlin, Country: Germany, Temperature: 6.00°C, Humidity: 81%
+City: Berlin, Country: Germany, Temperature: 6.00°C, Humidity: 70%
+City: Berlin, Country: Germany, Temperature: 6.00°C, Humidity: 70%
+City: Berlin, Country: Germany, Temperature: 6.00°C, Humidity: 70%
+City: Moscow, Country: Russia, Temperature: 3.00°C, Humidity: 93%
+City: Berlin, Country: Germany, Temperature: 6.00°C, Humidity: 70%
+City: Moscow, Country: Russia, Temperature: 3.00°C, Humidity: 93%
+City: Berlin, Country: Germany, Temperature: 6.00°C, Humidity: 70%
+City: Moscow, Country: Russia, Temperature: 3.00°C, Humidity: 93%
+City: Berlin, Country: Germany, Temperature: 6.00°C, Humidity: 70%
+City: Berlin, Country: Germany, Temperature: 6.00°C, Humidity: 70%
+City: Berlin, Country: Germany, Temperature: 6.00°C, Humidity: 70%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Moscow, Country: Russia, Temperature: 3.00°C, Humidity: 87%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Moscow, Country: Russia, Temperature: 3.00°C, Humidity: 87%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Moscow, Country: Russia, Temperature: 3.00°C, Humidity: 87%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
+City: Sydney, Country: Australia, Temperature: 19.00°C, Humidity: 68%
