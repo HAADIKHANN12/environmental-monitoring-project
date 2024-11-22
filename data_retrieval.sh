@@ -16,4 +16,3 @@ do
     # Wait for the next interval
     sleep $INTERVAL
 done
-
