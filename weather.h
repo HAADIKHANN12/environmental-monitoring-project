@@ -11,6 +11,6 @@ typedef struct {
 int get_weather_data(const char *url, char *response);
 int parse_json(const char *json_data, EnvironmentalData *data);
 void write_to_file(const char *filename, const EnvironmentalData *data);
-void check_alerts(const EnvironmentalData *data);
+int check_alerts(const EnvironmentalData *data);
 
 #endif // WEATHER_H
